@@ -35,6 +35,17 @@ N51822   ???    nRF51822 multi-protocol ZBluethooth Low Energy And 2.4GHz RF sys
 20-pin STM microcontrollers   32F033F
 
 
+
+
+
+
+    Infrared Sensor: TSOP 1738 is the perfect solution for receiving IR signals from remote controls, making it ideal for home entertainment systems, robotics, and more.
+    Precise Reception: With a center frequency of 38 kHz, TSOP 1738 offers precise reception of IR signals, ensuring your devices respond accurately.
+    Low Power Consumption: TSOP 1738 features low power consumption, making it energy-efficient and suitable for battery-powered applications.
+    Wide Detection Angle: The sensor has a 90-degree detection angle, providing excellent coverage for your IR remote control needs.
+    Easy to Use: TSOP 1738 is easy to integrate into your projects, and its compatibility with TTL and CMOS ensures smooth operation.
+    Reliable Performance: This sensor offers improved shielding against electrical field disturbance, guaranteeing reliable performance.
+
 ```
 
 ### POWER
@@ -141,6 +152,27 @@ N51822   ???    nRF51822 multi-protocol ZBluethooth Low Energy And 2.4GHz RF sys
 |50| <img src="img/43_to_46_50_54_LEFT_2_RIGHT.jpg" width="60"> | EXIT            | `0x1`  | `0x63` | `0xE3`   | 12   |
 |51| <img src="img/43_to_46_50_54_LEFT_2_RIGHT.jpg" width="60"> | STOP            | `0x97` | `0x18` | `0x4B98` | 15   |
 |52| <img src="img/43_to_46_50_54_LEFT_2_RIGHT.jpg" width="60"> | SYNC MENU       | `0x1A` | `0x58` | `0xD58`  | 15   |
+
+
+
+
+
+
+
+### build
+
+```
+arduino-cli lib install IRremote
+
+
+arduino-cli compile --fqbn arduino:avr:nano:cpu=atmega328old IR/IR.ino
+arduino-cli upload     -p /dev/ttyUSB0     --fqbn arduino:avr:nano:cpu=atmega328old     IR/
+clear && arduino-cli monitor -p /dev/ttyUSB0 -c baudrate=115200
+```
+
+
+
+
 
 
 

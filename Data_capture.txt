@@ -1,0 +1,1096 @@
+
+
+POWER BUTTON
+Connecting to /dev/ttyUSB0. Press CTRL-C to exit.
+Sony IR Remote Decoder
+Press a button...
+Sony IR Remote Decoder
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x15, Raw-Data=0x95, 12 bits, LSB first, Gap=3276750us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x15
+Raw Data: 0x95
+Bits    : 12
+
+
+SOURCE BITTOn
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x25, Raw-Data=0xA5, 12 bits, LSB first, Gap=2431800us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x25
+Raw Data: 0xA5
+Bits    : 12
+-------------------------
+
+
+MENU
+
+Protocol=Sony Address=0xC4, Command=0x49, Raw-Data=0x6249, 15 bits, LSB first, Gap=2410150us, Duration=23750us
+Protocol: Sony
+Address : 0xC4
+Command : 0x49
+Raw Data: 0x6249
+Bits    : 15
+-------------------------
+
+
+DIGITAL/ANALOG
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x77, Command=0xD, Raw-Data=0x3B8D, 15 bits, LSB first, Gap=2460050us, Duration=25500us
+Protocol: Sony
+Address : 0x77
+Command : 0xD
+Raw Data: 0x3B8D
+Bits    : 15
+
+
+
+NO 1
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x0, Raw-Data=0x80, 12 bits, LSB first, Gap=3276750us, Duration=17150us
+Protocol: Sony
+Address : 0x1
+Command : 0x0
+Raw Data: 0x80
+Bits    : 12
+-------------------------
+
+
+
+
+
+No 2
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x1, Raw-Data=0x81, 12 bits, LSB first, Gap=1864200us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x1
+Raw Data: 0x81
+Bits    : 12
+
+
+
+
+
+No 3
+
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x2, Raw-Data=0x82, 12 bits, LSB first, Gap=3276750us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x2
+Raw Data: 0x82
+Bits    : 12
+-------------------------
+
+NO 4
+
+
+
+
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3, Raw-Data=0x83, 12 bits, LSB first, Gap=1625750us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x3
+Raw Data: 0x83
+Bits    : 12
+-------------------------
+
+
+
+no 5
+
+
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x4, Raw-Data=0x84, 12 bits, LSB first, Gap=2160250us, Duration=17800us
+Protocol: Sony
+Address : 0x1
+Command : 0x4
+Raw Data: 0x84
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+
+no 6
+
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x5, Raw-Data=0x85, 12 bits, LSB first, Gap=908550us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x5
+Raw Data: 0x85
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+
+
+
+
+
+no 7
+
+Sony IR Remote Decoder
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x6, Raw-Data=0x86, 12 bits, LSB first, Gap=871600us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x6
+Raw Data: 0x86
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+
+
+
+n o 8
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x7, Raw-Data=0x87, 12 bits, LSB first, Gap=1389750us, Duration=19000us
+Protocol: Sony
+Address : 0x1
+Command : 0x7
+Raw Data: 0x87
+Bits    : 12
+-------------------------
+
+
+no9
+
+Connecting to /dev/ttyUSB0. Press CTRL-C to exit.
+Sony IR Remote Decoder
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x8, Raw-Data=0x88, 12 bits, LSB first, Gap=1336200us, Duration=17800us
+Protocol: Sony
+Address : 0x1
+Command : 0x8
+Raw Data: 0x88
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+???
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3A, Raw-Data=0xBA, 12 bits, LSB first, Gap=1105700us, Duration=19600us
+Protocol: Sony
+Address : 0x1
+Command : 0x3A
+Raw Data: 0xBA
+Bits    : 12
+-------------------------
+
+no 0
+
+
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x9, Raw-Data=0x89, 12 bits, LSB first, Gap=3276750us, Duration=18300us
+Protocol: Sony
+Address : 0x1
+Command : 0x9
+Raw Data: 0x89
+Bits    : 12
+-------------------------
+
+
+greenbox ?
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3F, Raw-Data=0xBF, 12 bits, LSB first, Gap=814750us, Duration=20750us
+Protocol: Sony
+Address : 0x1
+Command : 0x3F
+Raw Data: 0xBF
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+googleplay
+
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x46, Raw-Data=0x6246, 15 bits, LSB first, Gap=1558750us, Duration=23700us
+Protocol: Sony
+Address : 0xC4
+Command : 0x46
+Raw Data: 0x6246
+Bits    : 15
+-------------------------
+
+
+
+netflix
+
+-------------------------
+Protocol=Sony Address=0x1A, Command=0x7C, Raw-Data=0xD7C, 15 bits, LSB first, Gap=847400us, Duration=24900us
+Protocol: Sony
+Address : 0x1A
+Command : 0x7C
+Raw Data: 0xD7C
+Bits    : 15
+-------------------------
+
+
+red
+
+
+Press a button...
+-------------------------
+Protocol=Sony Address=0x97, Command=0x25, Raw-Data=0x4BA5, 15 bits, LSB first, Gap=2431200us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x25
+Raw Data: 0x4BA5
+Bits    : 15
+
+green
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x26, Raw-Data=0x4BA6, 15 bits, LSB first, Gap=119600us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x26
+Raw Data: 0x4BA6
+Bits    : 15
+
+
+
+yelloow
+Press a button...
+-------------------------
+Protocol=Sony Address=0x97, Command=0x27, Raw-Data=0x4BA7, 15 bits, LSB first, Gap=1849900us, Duration=25450us
+Protocol: Sony
+Address : 0x97
+Command : 0x27
+Raw Data: 0x4BA7
+Bits    : 15
+
+
+
+
+blue
+
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x24, Raw-Data=0x4BA4, 15 bits, LSB first, Gap=532800us, Duration=24300us
+Protocol: Sony
+Address : 0x97
+Command : 0x24
+Raw Data: 0x4BA4
+Bits    : 15
+
+
+
+GUIDE
+
+-------------------------
+Protocol=Sony Address=0xA4, Command=0x5B, Raw-Data=0x525B, 15 bits, LSB first, Gap=233700us, Duration=24900us
+Protocol: Sony
+Address : 0xA4
+Command : 0x5B
+Raw Data: 0x525B
+Bits    : 15
+-------------------------
+
+ACTION MENU
+
+Protocol=Sony Address=0xC4, Command=0x4B, Raw-Data=0x624B, 15 bits, LSB first, Gap=2991850us, Duration=24300us
+Protocol: Sony
+Address : 0xC4
+Command : 0x4B
+Raw Data: 0x624B
+Bits    : 15
+
+APPS
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x2A, Raw-Data=0x622A, 15 bits, LSB first, Gap=1077950us, Duration=23700us
+Protocol: Sony
+Address : 0xC4
+Command : 0x2A
+Raw Data: 0x622A
+Bits    : 15
+-------------------------
+HOME 
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x60, Raw-Data=0xE0, 12 bits, LSB first, Gap=2014650us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x60
+Raw Data: 0xE0
+Bits    : 12
+-------------------------
+TV
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x24, Raw-Data=0xA4, 12 bits, LSB first, Gap=3276750us, Duration=18400us
+Protocol: Sony
+Address : 0x1
+Command : 0x24
+Raw Data: 0xA4
+Bits    : 12
+-------------------------
+
+BACK
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x23, Raw-Data=0x4BA3, 15 bits, LSB first, Gap=1747700us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x23
+Raw Data: 0x4BA3
+Bits    : 15
+-------------------------
+
+
+
+LEFT ARROW
+-------------------------
+Protocol=Sony Address=0x1, Command=0x34, Raw-Data=0xB4, 12 bits, LSB first, Gap=3276750us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x34
+Raw Data: 0xB4
+Bits    : 12
+-------------------------
+
+
+RIGHT 
+
+Protocol=Sony Address=0x1, Command=0x33, Raw-Data=0xB3, 12 bits, LSB first, Gap=3145850us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x33
+Raw Data: 0xB3
+Bits    : 12
+-------------------------
+
+
+TOP
+
+Protocol=Sony Address=0x1, Command=0x74, Raw-Data=0xF4, 12 bits, LSB first, Gap=1849500us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x74
+Raw Data: 0xF4
+Bits    : 12
+-------------------------
+
+BOTTOM
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x75, Raw-Data=0xF5, 12 bits, LSB first, Gap=3276750us, Duration=20200us
+Protocol: Sony
+Address : 0x1
+Command : 0x75
+Raw Data: 0xF5
+Bits    : 12
+-------------------------
+
+CENTER
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x65, Raw-Data=0xE5, 12 bits, LSB first, Gap=3276750us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x65
+Raw Data: 0xE5
+Bits    : 12
+-------------------------
+
+
+VOLUME UP
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x12, Raw-Data=0x92, 12 bits, LSB first, Gap=1825250us, Duration=18400us
+Protocol: Sony
+Address : 0x1
+Command : 0x12
+Raw Data: 0x92
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+VOLUME DOWN
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x13, Raw-Data=0x93, 12 bits, LSB first, Gap=2552850us, Duration=18900us
+Protocol: Sony
+Address : 0x1
+Command : 0x13
+Raw Data: 0x93
+Bits    : 12
+-------------------------
+
+
+
+
+LOOP
+
+Protocol=Sony Address=0x1, Command=0x3B, Raw-Data=0xBB, 12 bits, LSB first, Gap=1769350us, Duration=20100us
+Protocol: Sony
+Address : 0x1
+Command : 0x3B
+Raw Data: 0xBB
+Bits    : 12
+-------------------------
+
+
+
+MUTE
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x14, Raw-Data=0x94, 12 bits, LSB first, Gap=76950us, Duration=18400us
+Protocol: Sony
+Address : 0x1
+Command : 0x14
+Raw Data: 0x94
+Bits    : 12
+-------------------------
+
+
+
+
+PROG  +
+
+Protocol=Sony Address=0x1, Command=0x10, Raw-Data=0x90, 12 bits, LSB first, Gap=2065500us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x10
+Raw Data: 0x90
+Bits    : 12
+-------------------------
+
+
+PROG -
+
+
+Protocol=Sony Address=0x1, Command=0x11, Raw-Data=0x91, 12 bits, LSB first, Gap=905850us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x11
+Raw Data: 0x91
+Bits    : 12
+-------------------------
+
+
+
+
+
+audio
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x17, Raw-Data=0x97, 12 bits, LSB first, Gap=3276750us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x17
+Raw Data: 0x97
+Bits    : 12
+-------------------------
+
+
+
+
+
+
+bakck
+
+Protocol=Sony Address=0x97, Command=0x1B, Raw-Data=0x4B9B, 15 bits, LSB first, Gap=3276750us, Duration=25450us
+Protocol: Sony
+Address : 0x97
+Command : 0x1B
+Raw Data: 0x4B9B
+Bits    : 15
+-------------------------
+
+
+PLAY
+
+
+Protocol=Sony Address=0x97, Command=0x1A, Raw-Data=0x4B9A, 15 bits, LSB first, Gap=118400us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x1A
+Raw Data: 0x4B9A
+Bits    : 15
+-------------------------
+
+FRWOD 
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x1C, Raw-Data=0x4B9C, 15 bits, LSB first, Gap=674250us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x1C
+Raw Data: 0x4B9C
+Bits    : 15
+-------------------------
+
+
+WHITE BOX
+
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x28, Raw-Data=0x4BA8, 15 bits, LSB first, Gap=3276750us, Duration=24300us
+Protocol: Sony
+Address : 0x97
+Command : 0x28
+Raw Data: 0x4BA8
+Bits    : 15
+-------------------------
+
+NEXT
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x3C, Raw-Data=0x4BBC, 15 bits, LSB first, Gap=878300us, Duration=25400us
+Protocol: Sony
+Address : 0x97
+Command : 0x3C
+Raw Data: 0x4BBC
+Bits    : 15
+-------------------------
+
+
+PUSEE
+
+
+
+Protocol=Sony Address=0x97, Command=0x19, Raw-Data=0x4B99, 15 bits, LSB first, Gap=676150us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x19
+Raw Data: 0x4B99
+Bits    : 15
+-------------------------
+
+
+
+NEXT
+
+Sony IR Remote Decoder
+Press a button...
+-------------------------
+Protocol=Sony Address=0x97, Command=0x3D, Raw-Data=0x4BBD, 15 bits, LSB first, Gap=934000us, Duration=26050us
+Protocol: Sony
+Address : 0x97
+Command : 0x3D
+Raw Data: 0x4BBD
+Bits    : 15
+-------------------------
+
+
+
+
+HELP
+
+Protocol=Sony Address=0xC4, Command=0x4D, Raw-Data=0x624D, 15 bits, LSB first, Gap=914650us, Duration=24300us
+Protocol: Sony
+Address : 0xC4
+Command : 0x4D
+Raw Data: 0x624D
+Bits    : 15
+-------------------------
+
+
+EXIT
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x63, Raw-Data=0xE3, 12 bits, LSB first, Gap=2411400us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x63
+Raw Data: 0xE3
+Bits    : 12
+-------------------------
+
+
+STOP
+
+
+-------------------------
+Protocol=Sony Address=0x97, Command=0x18, Raw-Data=0x4B98, 15 bits, LSB first, Gap=986300us, Duration=24250us
+Protocol: Sony
+Address : 0x97
+Command : 0x18
+Raw Data: 0x4B98
+Bits    : 15
+-------------------------
+
+
+SYNC MENU
+
+
+
+Protocol=Sony Address=0x1A, Command=0x58, Raw-Data=0xD58, 15 bits, LSB first, Gap=1397600us, Duration=23700us
+Protocol: Sony
+Address : 0x1A
+Command : 0x58
+Raw Data: 0xD58
+Bits    : 15
+-------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------
+Protocol=Sony Address=0x1, Command=0x15, Raw-Data=0x95, 12 bits, LSB first, Gap=3276750us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x15
+Raw Data: 0x95
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x25, Raw-Data=0xA5, 12 bits, LSB first, Gap=2359750us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x25
+Raw Data: 0xA5
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x77, Command=0xD, Raw-Data=0x3B8D, 15 bits, LSB first, Gap=1983950us, Duration=25450us
+Protocol: Sony
+Address : 0x77
+Command : 0xD
+Raw Data: 0x3B8D
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x49, Raw-Data=0x6249, 15 bits, LSB first, Gap=1448250us, Duration=23750us
+Protocol: Sony
+Address : 0xC4
+Command : 0x49
+Raw Data: 0x6249
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x0, Raw-Data=0x80, 12 bits, LSB first, Gap=1081700us, Duration=17150us
+Protocol: Sony
+Address : 0x1
+Command : 0x0
+Raw Data: 0x80
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x1, Raw-Data=0x81, 12 bits, LSB first, Gap=785300us, Duration=17800us
+Protocol: Sony
+Address : 0x1
+Command : 0x1
+Raw Data: 0x81
+Bits    : 12
+-------------------------
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x2, Raw-Data=0x82, 12 bits, LSB first, Gap=876600us, Duration=17800us
+Protocol: Sony
+Address : 0x1
+Command : 0x2
+Raw Data: 0x82
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3, Raw-Data=0x83, 12 bits, LSB first, Gap=1349800us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x3
+Raw Data: 0x83
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x4, Raw-Data=0x84, 12 bits, LSB first, Gap=735350us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x4
+Raw Data: 0x84
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x5, Raw-Data=0x85, 12 bits, LSB first, Gap=666700us, Duration=18300us
+Protocol: Sony
+Address : 0x1
+Command : 0x5
+Raw Data: 0x85
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x6, Raw-Data=0x86, 12 bits, LSB first, Gap=844850us, Duration=18400us
+Protocol: Sony
+Address : 0x1
+Command : 0x6
+Raw Data: 0x86
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x7, Raw-Data=0x87, 12 bits, LSB first, Gap=557750us, Duration=18950us
+Protocol: Sony
+Address : 0x1
+Command : 0x7
+Raw Data: 0x87
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x8, Raw-Data=0x88, 12 bits, LSB first, Gap=673600us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x8
+Raw Data: 0x88
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3A, Raw-Data=0xBA, 12 bits, LSB first, Gap=1019500us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x3A
+Raw Data: 0xBA
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x9, Raw-Data=0x89, 12 bits, LSB first, Gap=705100us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x9
+Raw Data: 0x89
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3F, Raw-Data=0xBF, 12 bits, LSB first, Gap=719600us, Duration=20750us
+Protocol: Sony
+Address : 0x1
+Command : 0x3F
+Raw Data: 0xBF
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x46, Raw-Data=0x6246, 15 bits, LSB first, Gap=986650us, Duration=23700us
+Protocol: Sony
+Address : 0xC4
+Command : 0x46
+Raw Data: 0x6246
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1A, Command=0x7C, Raw-Data=0xD7C, 15 bits, LSB first, Gap=1128300us, Duration=24850us
+Protocol: Sony
+Address : 0x1A
+Command : 0x7C
+Raw Data: 0xD7C
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x25, Raw-Data=0x4BA5, 15 bits, LSB first, Gap=1340000us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x25
+Raw Data: 0x4BA5
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x26, Raw-Data=0x4BA6, 15 bits, LSB first, Gap=997250us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x26
+Raw Data: 0x4BA6
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x27, Raw-Data=0x4BA7, 15 bits, LSB first, Gap=858550us, Duration=25400us
+Protocol: Sony
+Address : 0x97
+Command : 0x27
+Raw Data: 0x4BA7
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x24, Raw-Data=0x4BA4, 15 bits, LSB first, Gap=807150us, Duration=24250us
+Protocol: Sony
+Address : 0x97
+Command : 0x24
+Raw Data: 0x4BA4
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0xA4, Command=0x5B, Raw-Data=0x525B, 15 bits, LSB first, Gap=1147200us, Duration=24850us
+Protocol: Sony
+Address : 0xA4
+Command : 0x5B
+Raw Data: 0x525B
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x4B, Raw-Data=0x624B, 15 bits, LSB first, Gap=781200us, Duration=24250us
+Protocol: Sony
+Address : 0xC4
+Command : 0x4B
+Raw Data: 0x624B
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x2A, Raw-Data=0x622A, 15 bits, LSB first, Gap=998050us, Duration=23650us
+Protocol: Sony
+Address : 0xC4
+Command : 0x2A
+Raw Data: 0x622A
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x60, Raw-Data=0xE0, 12 bits, LSB first, Gap=845400us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x60
+Raw Data: 0xE0
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x24, Raw-Data=0xA4, 12 bits, LSB first, Gap=596100us, Duration=18300us
+Protocol: Sony
+Address : 0x1
+Command : 0x24
+Raw Data: 0xA4
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x23, Raw-Data=0x4BA3, 15 bits, LSB first, Gap=700450us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x23
+Raw Data: 0x4BA3
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x34, Raw-Data=0xB4, 12 bits, LSB first, Gap=490750us, Duration=19000us
+Protocol: Sony
+Address : 0x1
+Command : 0x34
+Raw Data: 0xB4
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x33, Raw-Data=0xB3, 12 bits, LSB first, Gap=811850us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x33
+Raw Data: 0xB3
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x74, Raw-Data=0xF4, 12 bits, LSB first, Gap=743850us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x74
+Raw Data: 0xF4
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x75, Raw-Data=0xF5, 12 bits, LSB first, Gap=787450us, Duration=20100us
+Protocol: Sony
+Address : 0x1
+Command : 0x75
+Raw Data: 0xF5
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x65, Raw-Data=0xE5, 12 bits, LSB first, Gap=1787650us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x65
+Raw Data: 0xE5
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x12, Raw-Data=0x92, 12 bits, LSB first, Gap=1986850us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x12
+Raw Data: 0x92
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x13, Raw-Data=0x93, 12 bits, LSB first, Gap=430700us, Duration=19000us
+Protocol: Sony
+Address : 0x1
+Command : 0x13
+Raw Data: 0x93
+Bits    : 12
+-------------------------
+Protocol=Sony Address=0x1, Command=0x3B, Raw-Data=0xBB, 12 bits, LSB first, Gap=1047800us, Duration=20150us
+Protocol: Sony
+Address : 0x1
+Command : 0x3B
+Raw Data: 0xBB
+Bits    : 12
+-------------------------
+Protocol=Sony Address=0x1, Command=0x14, Raw-Data=0x94, 12 bits, LSB first, Gap=431450us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x14
+Raw Data: 0x94
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x10, Raw-Data=0x90, 12 bits, LSB first, Gap=781900us, Duration=17750us
+Protocol: Sony
+Address : 0x1
+Command : 0x10
+Raw Data: 0x90
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x11, Raw-Data=0x91, 12 bits, LSB first, Gap=683950us, Duration=18350us
+Protocol: Sony
+Address : 0x1
+Command : 0x11
+Raw Data: 0x91
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x17, Raw-Data=0x97, 12 bits, LSB first, Gap=1510850us, Duration=19550us
+Protocol: Sony
+Address : 0x1
+Command : 0x17
+Raw Data: 0x97
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x1B, Raw-Data=0x4B9B, 15 bits, LSB first, Gap=771700us, Duration=25450us
+Protocol: Sony
+Address : 0x97
+Command : 0x1B
+Raw Data: 0x4B9B
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x1A, Raw-Data=0x4B9A, 15 bits, LSB first, Gap=636450us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x1A
+Raw Data: 0x4B9A
+Bits    : 15
+-------------------------
+Protocol=Sony Address=0x97, Command=0x1C, Raw-Data=0x4B9C, 15 bits, LSB first, Gap=707950us, Duration=24850us
+Protocol: Sony
+Address : 0x97
+Command : 0x1C
+Raw Data: 0x4B9C
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x28, Raw-Data=0x4BA8, 15 bits, LSB first, Gap=1543450us, Duration=24300us
+Protocol: Sony
+Address : 0x97
+Command : 0x28
+Raw Data: 0x4BA8
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x3C, Raw-Data=0x4BBC, 15 bits, LSB first, Repeat, Gap=19150us, Duration=25350us
+Protocol: Sony
+Address : 0x97
+Command : 0x3C
+Raw Data: 0x4BBC
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x19, Raw-Data=0x4B99, 15 bits, LSB first, Repeat, Gap=19550us, Duration=24900us
+Protocol: Sony
+Address : 0x97
+Command : 0x19
+Raw Data: 0x4B99
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x3D, Raw-Data=0x4BBD, 15 bits, LSB first, Repeat, Gap=18400us, Duration=26050us
+Protocol: Sony
+Address : 0x97
+Command : 0x3D
+Raw Data: 0x4BBD
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0xC4, Command=0x4D, Raw-Data=0x624D, 15 bits, LSB first, Repeat, Gap=20150us, Duration=24300us
+Protocol: Sony
+Address : 0xC4
+Command : 0x4D
+Raw Data: 0x624D
+Bits    : 15
+-------------------------
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1, Command=0x63, Raw-Data=0xE3, 12 bits, LSB first, Repeat, Gap=24850us, Duration=19600us
+Protocol: Sony
+Address : 0x1
+Command : 0x63
+Raw Data: 0xE3
+Bits    : 12
+-------------------------
+-------------------------
+Protocol=Sony Address=0x97, Command=0x18, Raw-Data=0x4B98, 15 bits, LSB first, Repeat, Gap=20150us, Duration=24300us
+Protocol: Sony
+Address : 0x97
+Command : 0x18
+Raw Data: 0x4B98
+Bits    : 15
+-------------------------
+-------------------------
+Protocol=Sony Address=0x1A, Command=0x58, Raw-Data=0xD58, 15 bits, LSB first, Repeat, Gap=20800us, Duration=23700us
+Protocol: Sony
+Address : 0x1A
+Command : 0x58
+Raw Data: 0xD58
+Bits    : 15
+
