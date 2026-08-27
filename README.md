@@ -82,10 +82,11 @@ N51822   ???    nRF51822 multi-protocol ZBluethooth Low Energy And 2.4GHz RF sys
 |1|  <img src="img/123.jpg" width="60"> | POWER           | `0x01` | `0x15` | `0x095`  | 12   |
 |2|  <img src="img/123.jpg" width="60"> | SPEECH          | -----  | -----  | -----    | -----|
 |3|  <img src="img/123.jpg" width="60"> | SOURCE          | `0x01` | `0x25` | `0xA5`   | 12   |
-|4|  <img src="img/123.jpg" width="60"> | MENU            | `0xC4` | `0x49` | `0x6249` | 12   |
-|-|  <img src="img/123.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
-|-|  <img src="img/123.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
-|5|  <img src="img/123.jpg" width="60"> | DIGITAL/ANALOG  | `0x77` | `0xD`  | `0x3B8D` | 12   |
+|-|  -----------------------------------| ------------    | ---    | ---    | ---      | ---  |
+|4|  <img src="img/4567.jpg" width="60"> | MENU            | `0xC4` | `0x49` | `0x6249` | 12   |
+|-|  <img src="img/4567.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
+|-|  <img src="img/4567.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
+|5|  <img src="img/4567.jpg" width="60"> | DIGITAL/ANALOG  | `0x77` | `0xD`  | `0x3B8D` | 12   |
 |-|  -----------------------------------| ------------    | ---    | ---    | ---      | ---  |
 |6|  <img src="img/8_to_19.jpg" width="60"> | 1               | `0x1`  | `0x0`  | `0x80`   | 12   |
 |7|  <img src="img/8_to_19.jpg" width="60"> | 2               | `0x1`  | `0x1`  | `0x81`   | 12   |
