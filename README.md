@@ -82,11 +82,11 @@ N51822   ???    nRF51822 multi-protocol ZBluethooth Low Energy And 2.4GHz RF sys
 |1|  <img src="img/123.jpg" width="60"> | POWER           | `0x01` | `0x15` | `0x095`  | 12   |
 |2|  <img src="img/123.jpg" width="60"> | SPEECH          | -----  | -----  | -----    | -----|
 |3|  <img src="img/123.jpg" width="60"> | SOURCE          | `0x01` | `0x25` | `0xA5`   | 12   |
-|-|  -----------------------------------| ------------    | ---    | ---    | ---      | ---  |
-|4|  <img src="img/4567.jpg" width="60"> | MENU            | `0xC4` | `0x49` | `0x6249` | 12   |
+|-|  ----------------------------------- | ------------    | ---    | ---    | ---      | ---  |
+|4|  <img src="img/4567.jpg" width="60"> | MENU            | `0xC4` | `0x49` | `0x6249` | 15   |
 |-|  <img src="img/4567.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
 |-|  <img src="img/4567.jpg" width="60"> | ---             | ---    | ---    | ---      | ---  |
-|5|  <img src="img/4567.jpg" width="60"> | DIGITAL/ANALOG  | `0x77` | `0xD`  | `0x3B8D` | 12   |
+|5|  <img src="img/4567.jpg" width="60"> | DIGITAL/ANALOG  | `0x77` | `0xD`  | `0x3B8D` | 15   |
 |-|  -----------------------------------| ------------    | ---    | ---    | ---      | ---  |
 |6|  <img src="img/8_to_19.jpg" width="60"> | 1               | `0x1`  | `0x0`  | `0x80`   | 12   |
 |7|  <img src="img/8_to_19.jpg" width="60"> | 2               | `0x1`  | `0x1`  | `0x81`   | 12   |
@@ -104,7 +104,7 @@ N51822   ???    nRF51822 multi-protocol ZBluethooth Low Energy And 2.4GHz RF sys
 |18| <img src="img/21.jpg" width="60"> | GOOGLEPLAY      | `0xC4` | `0x46` | `0x6246` | 15   |
 |19| <img src="img/20.jpg" width="60"> | NETFLIX         | `0x1A` | `0x7C` | `0xD7C`  | 15   |
 |-|  -----------------------------------| ------------    | ---    | ---    | ---      | ---  |
-|-|  <img src="img/22_to_25.jpg" width="60"> | LEFT 2 RIGHT    | ---    | ---    | ---      | ---  |
+|-| ------------------------------------     | LEFT 2 RIGHT    | ---    | ---    | ---      | ---  |
 |20| <img src="img/22_to_25.jpg" width="60"> | RED             | `0x97` | `0x25` | `0x4BA5` | 15   |
 |21| <img src="img/22_to_25.jpg" width="60"> | GREEN           | `0x97` | `0x26` | `0x4BA6` | 15   |
 |22| <img src="img/22_to_25.jpg" width="60"> | YELLOW          | `0x97` | `0x27` | `0x4BA7` | 15   |
