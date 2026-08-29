@@ -1,7 +1,7 @@
 ## Sony TV IR Commands
 
 
- <img src="22.jpeg" width="120"> 
+ <img src="samsung.jpeg" width="120"> 
 
 
 
