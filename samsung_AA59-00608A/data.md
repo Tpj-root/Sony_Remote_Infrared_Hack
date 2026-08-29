@@ -1,4 +1,4 @@
-## Sony TV IR Commands
+## SAMSUNG TV IR Commands
 
 
  <img src="samsung.jpeg" width="120"> 
